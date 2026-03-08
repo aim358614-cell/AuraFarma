@@ -1,2 +1,0 @@
-var favoriteFood = 'Burrito'
-console.log(favoriteFood)

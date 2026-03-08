@@ -1,0 +1,4 @@
+var favoriteFood = 'Burrito'
+console.log(favoriteFood);
+let levelUp = 10;
+levelUp += 5
