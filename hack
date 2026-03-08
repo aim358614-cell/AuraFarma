@@ -1,1 +1,1 @@
-console.log('pneumonoultramicroscopiccillicovolcanoconiosis'.length)
+console.log('pneumonoultramicroscopiccillicovolcanoconiosis'.length);
