@@ -1,2 +1,2 @@
-<!DOCTYPE html>
-console.log(math.floor(math.random() * 50))
+var favoriteFood = 'Burrito'
+console.log(favoriteFood)
