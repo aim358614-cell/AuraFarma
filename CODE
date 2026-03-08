@@ -1,6 +1,6 @@
 var favoriteFood = 'Burrito'
-        console.log(favoriteFood);
-    let levelUp = 10;
-  levelUp += 5
-        let powerLevel = 9001
-    powerLevel -= 100;
+console.log(favoriteFood);
+let levelUp = 10;
+levelUp += 5
+let powerLevel = 9001
+powerLevel -= 100;
